@@ -1,0 +1,19 @@
+{
+  "name": "payd4",
+  "version": "0.1.0",
+  "description": "Ensure your product's features have been payed for.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renbou-itmo-blockchain/payd4.git"
+  },
+  "author": "renbou",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/renbou-itmo-blockchain/payd4/issues"
+  },
+  "homepage": "https://github.com/renbou-itmo-blockchain/payd4#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.1"
+  }
+}
